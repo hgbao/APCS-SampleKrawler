@@ -1,0 +1,44 @@
+﻿INSERT INTO 'foods' VALUES('192', 'MIẾN XÀO TÔM LỘT NỒI ĐẤT','MIẾN XÀO TÔM LỘT NỒI ĐẤT','155000','','','available','pb7---mien-xao-tom-lot-noi-dat-1479879067.jpg','image/png','357463',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('193', 'MIẾN XÀO LƯƠN NỒI ĐẤT','MIẾN XÀO LƯƠN NỒI ĐẤT','138000','','','available','pb6---mien-xao-luon-noi-dat-1479879043.jpg','image/png','373500',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('194', 'MIẾN XÀO CUA NỒI ĐẤT','MIẾN XÀO CUA NỒI ĐẤT','528000','','','available','pb5---mien-xao-cua-noi-dat-1479879020.jpg','image/png','361716',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('195', 'PHỞ BÒ XÀO GIÒN','PHỞ BÒ XÀO GIÒN','115000','','','available','633_1454494721_71556b1d401d205f.png','image/png','234339',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('196', 'PHỞ BÒ XÀO MỀM','PHỞ BÒ XÀO MỀM','108000','','','available','850_1454494792_76756b1d4486ea6b.png','image/png','225740',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('197', 'PHỞ XÀO HẢI SẢN SỐT X.O','PHỞ XÀO HẢI SẢN SỐT X.O','158000','','','available','385_1454494863_56556b1d48f7dc83.png','image/png','229438',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('198', 'HẢI SẢN OM MIẾN, SỐT CAY NỒI ĐẤT','HẢI SẢN OM MIẾN, SỐT CAY NỒI ĐẤT','198000','','','available','983_1454494931_20656b1d4d3c307c.png','image/png','190024',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('199', 'MÌ BÒ XÀO GIÒN','MÌ BÒ XÀO GIÒN','115000','','','available','605_1454495133_76156b1d59dcd0f2.png','image/png','230812',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('200', 'MÌ BÒ XÀO MỀM','MÌ BÒ XÀO MỀM','115000','','','available','679_1454495189_60056b1d5d5808e4.png','image/png','228520',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('201', 'MÌ XÀO HẢI SẢN','MÌ XÀO HẢI SẢN','138000','','','available','907_1454495248_83656b1d61056517.png','image/png','229750',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('202', 'MIẾN XÀO CUA','MIẾN XÀO CUA','138000','','','available','697_1454495347_69256b1d6738d0c6.png','image/png','234422',null, '5', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);

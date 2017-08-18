@@ -1,0 +1,88 @@
+INSERT INTO 'foods' VALUES('212', 'LẨU CUA GIA VIÊN CHUA CAY','LẨU CUA GIA VIÊN CHUA CAY','690000','','','available','246_1454486541_78356b1b40d6dd40.png','image/png','246643',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('213', 'LẨU CUA GIA VIÊN SÒ ĐIỆP','LẨU CUA GIA VIÊN SÒ ĐIỆP','690000','','','available','679_1454486624_98356b1b460bebb7.png','image/png','215229',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('214', 'CÁ CHÉP OM DƯA CHUA','CÁ CHÉP OM DƯA CHUA','350000','','','available','990_1454492943_87256b1cd0fabe1a.png','image/png','242586',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('215', 'LẨU NẤM BỐN MÙA VỚI THỊT BÒ','LẨU NẤM BỐN MÙA VỚI THỊT BÒ','458000','','','available','401_1454493636_41956b1cfc4ef320.png','image/png','203568',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('216', 'CANH CẢI XANH OM NẤM, THỊT BẰM','CANH CẢI XANH OM NẤM, THỊT BẰM','78000','','','available','139_1454493896_95756b1d0c829776.png','image/png','242122',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('217', 'CANH CÀ CHUA ĐẬU HŨ THỊT NẠC THĂN','CANH CÀ CHUA ĐẬU HŨ THỊT NẠC THĂN','78000','','','available','893_1454493971_91056b1d113ed169.png','image/png','231490',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('218', 'CANH NGAO CHUA','CANH NGAO CHUA','78000','','','available','334_1454494115_7156b1d1a3bb51e.png','image/png','207899',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('219', 'SƯỜN NON OM SẤU KÈM BÚN','SƯỜN NON OM SẤU KÈM BÚN','185000','','','available','650_1454494275_32456b1d2433e01e.png','image/png','211612',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('220', 'LẨU RIÊU CUA SƯỜN SỤN BẮP BÒ','LẨU RIÊU CUA SƯỜN SỤN BẮP BÒ','385000','','','available','c20---lau-rieu-cua-suon-sun-bap-bo-1479879494.jpg','image/png','392549',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('221', 'CANH TÔM SÚ CHUA CAY','CANH TÔM SÚ CHUA CAY','255000','','','available','c16---canh-tom-su-chua-cay-1479879523.jpg','image/png','353835',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('222', 'CANH CUA RAU MỒNG TƠI','CANH CUA RAU MỒNG TƠI','78000','','','available','c10---canh-cua-rau-mong-toi-1479879549.jpg','image/png','322522',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('223', 'CÁ DIÊU HỒNG OM DƯA CHUA KÈM BÚN','CÁ DIÊU HỒNG OM DƯA CHUA KÈM BÚN','295000','','','available','c2---ca-dieu-hong-om-dua-chua-kem-bun-1479879574.jpg','image/png','385213',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('224', 'CÁ QUẢ OM CHUỐI','CÁ QUẢ OM CHUỐI','218000','','','available','c23---ca-qua-om-chuoi-1479879602.jpg','image/png','380292',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('225', 'LẨU VỊT MĂNG CHUA','LẨU VỊT MĂNG CHUA','350000','','','available','c21---lau-vit-mang-chua-1479879622.jpg','image/png','375528',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('226', 'LẨU ẾCH MĂNG CAY','LẨU ẾCH MĂNG CAY','255000','','','available','lau-ech-mang-cay-1479375752.jpg','image/png','246374',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('227', 'CANH NGAO MỒNG TƠI','CANH NGAO MỒNG TƠI','78000','','','available','canh-ngao-mong-toi-1479375693.jpg','image/png','228419',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('228', 'CANH DƯA CHUA SƯỜN NON','CANH DƯA CHUA SƯỜN NON','98000','','','available','canh-dua-chua-suon-non-1479375624.jpg','image/png','232039',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('229', 'CANH CẢI NẤU TÔM','CANH CẢI NẤU TÔM','68000','','','available','canh-cai-nau-tom-1479375481.jpg','image/png','218069',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('230', 'CANH CÁ NẤU CHUA','CANH CÁ NẤU CHUA','168000','','','available','canh-ca-nau-chua-1479375428.jpg','image/png','230436',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('231', 'CANH BẦU NẤU TÔM','CANH BẦU NẤU TÔM','68000','','','available','canh-bay-nau-tom-1479375271.jpg','image/png','220882',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('232', 'CÁ BỚP OM DƯA CHUA','CÁ BỚP OM DƯA CHUA','238000','','','available','ca-bop-om-dua-chua-cay-1479375158.jpg','image/png','243964',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('233', 'CÁ BỚP OM CHUỐI ĐẬU KÈM BÚN','CÁ BỚP OM CHUỐI ĐẬU KÈM BÚN','245000','','','available','ca-bop-om-chuoi-dau-kem-bun-1479375082.jpg','image/png','251678',null, '7', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);

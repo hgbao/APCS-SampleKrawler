@@ -1,0 +1,180 @@
+﻿INSERT INTO 'foods' VALUES('64', 'BÒ NHÚNG DẤM CUỐN BÁNH TRÁNG','BÒ NHÚNG DẤM CUỐN BÁNH TRÁNG','198000','','','available','734_1454474688_67556b185c073c91.jpg','image/png','199997',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('65', 'THỊT BA CHỈ RANG CHÁY CẠNH','THỊT BA CHỈ RANG CHÁY CẠNH','78000','','','available','391_1454474804_78256b1863411f4c.jpg','image/png','226705',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('66', 'THĂN LỢN QUAY MẬT ONG','THĂN LỢN QUAY MẬT ONG','118000','','','available','294_1454474972_43356b186dc88195.jpg','image/png','228065',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('67', 'THỊT HEO QUAY DA GIÒN','THỊT HEO QUAY DA GIÒN','118000','','','available','606_1454475054_54856b1872ee050c.jpg','image/png','217522',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('68', 'THỊT BA CHỈ LUỘC CHẤM MẮM RUỐC','THỊT BA CHỈ LUỘC CHẤM MẮM RUỐC','98000','','','available','343_1454475165_42256b1879d8c28b.jpg','image/png','222444',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('69', 'THỊT BA CHỈ TRỨNG CÚT KHO TỘ','THỊT BA CHỈ TRỨNG CÚT KHO TỘ','98000','','','available','25_1454475336_26156b18848e9b37.jpg','image/png','181505',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('70', 'HEO CẮP NÁCH NƯỚNG RIỀNG MẺ','HEO CẮP NÁCH NƯỚNG RIỀNG MẺ','138000','','','available','813_1454475666_42156b189928c553.jpg','image/png','252347',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('71', 'THỊT DẢI NƯỚNG MUỐI','THỊT DẢI NƯỚNG MUỐI','138000','','','available','316_1454479591_1556b198e7af838.jpg','image/png','242840',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('72', 'NÕN ĐUÔI NƯỚNG','NÕN ĐUÔI NƯỚNG','98000','','','available','538_1454479862_45456b199f60afe9.jpg','image/png','252168',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('73', 'CHÂN GIÒ QUAY DA GIÒN','CHÂN GIÒ QUAY DA GIÒN','98000','','','available','742_1454481690_78956b1a11a917d2.jpg','image/png','221920',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('74', 'SƯỜN CHIÊN CHAO ĐỖ','SƯỜN CHIÊN CHAO ĐỖ','148000','','','available','856_1454481848_12756b1a1b83912e.jpg','image/png','222261',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('75', 'SƯỜN THĂN CHIÊN TỎI ỚT','SƯỜN THĂN CHIÊN TỎI ỚT','148000','','','available','452_1454481989_93856b1a245cf3a6.jpg','image/png','236115',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('76', 'SƯỜN XÀO CHUA NGỌT','SƯỜN XÀO CHUA NGỌT','138000','','','available','462_1454482108_79456b1a2bced883.jpg','image/png','219606',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('77', 'SƯỜN NƯỚNG MẬT ONG','SƯỜN NƯỚNG MẬT ONG','168000','','','available','424_1454482584_10756b1a4984ae60.jpg','image/png','256475',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('78', 'SƯỜN RAM SỐT MƠ','SƯỜN RAM SỐT MƠ','148000','','','available','247_1454482780_30656b1a55cdd822.jpg','image/png','222762',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('79', 'GÀ QUAY GIA VIÊN NGUYÊN CON','GÀ QUAY GIA VIÊN NGUYÊN CON','495000','','','available','319_1454483128_50456b1a6b806aab.jpg','image/png','249091',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('80', 'GÀ RANG GỪNG HÀNH NỒI ĐẤT','GÀ RANG GỪNG HÀNH NỒI ĐẤT','168000','','','available','714_1454483433_98456b1a7e9e3dae.jpg','image/png','199234',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('81', 'ĐĨA GHÉP VỊT QUAY TỔNG HỢP','ĐĨA GHÉP VỊT QUAY TỔNG HỢP','298000','','','available','139_1454484101_45656b1aa85ba4ec.jpg','image/png','230198',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('82', 'VỊT QUAY LÁ MÓC MẬT','VỊT QUAY LÁ MÓC MẬT','595000','','','available','154_1454484539_55456b1ac3b37b4d.jpg','image/png','253790',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('83', 'ẾCH XÀO ỚT KHÔ SỐT DẦU HÀO NỒI ĐẤT','ẾCH XÀO ỚT KHÔ SỐT DẦU HÀO NỒI ĐẤT','165000','','','available','136_1454484737_54256b1ad0158d7e.jpg','image/png','185031',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('84', 'THỊT BÊ TÁI CHANH','THỊT BÊ TÁI CHANH','158000','','','available','474_1454484889_95856b1ad997d57e.jpg','image/png','242260',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('85', 'LỢN SỮA QUAY DA GIÒN NGUYÊN CON','LỢN SỮA QUAY DA GIÒN NGUYÊN CON','1000','','','available','t31---lon-sua-quay-da-gion--nguyen-con--1479955381.jpg','image/png','344880',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('86', 'GÀ QUAY GIA VIÊN 1/2 CON','GÀ QUAY GIA VIÊN 1/2 CON','255000','','','available','t12---ga-quay-gia-vien-nua-con-1479955298.jpg','image/png','359792',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('87', 'VIT QUAY LÁ MÓC MẬT 1/4 CON','VIT QUAY LÁ MÓC MẬT 1/4 CON','178000','','','available','t2---vit-quay-la-moc-mat--nguyen-con--t1--nua-con----t3-mot-phan-tu-con-1479955545.jpg','image/png','362539',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('88', 'VIT QUAY LÁ MÓC MẬT 1/2 CON','VIT QUAY LÁ MÓC MẬT 1/2 CON','320000','','','available','t2---vit-quay-la-moc-mat--nguyen-con--t1--nua-con----t3-mot-phan-tu-con-1479955084.jpg','image/png','362539',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('89', 'VỊT QUAY THƯỢNG HẠNG GIA VIÊN 1/4 CON','VỊT QUAY THƯỢNG HẠNG GIA VIÊN 1/4 CON','178000','','','available','t4---vit-quay-thuong-hang-gia-vien-nua-con--t5-mot-phan-tu-con-t6-nguyen-con-1479955052.jpg','image/png','370151',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('90', 'VỊT QUAY THƯỢNG HẠNG GIA VIÊN 1/2 CON','VỊT QUAY THƯỢNG HẠNG GIA VIÊN 1/2 CON','320000','','','available','t4---vit-quay-thuong-hang-gia-vien-nua-con--t5-mot-phan-tu-con-t6-nguyen-con-1479955005.jpg','image/png','370151',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('91', 'VỊT QUAY THƯỢNG HẠNG GIA VIÊN NGUYÊN CON','VỊT QUAY THƯỢNG HẠNG GIA VIÊN NGUYÊN CON','595000','','','available','t4---vit-quay-thuong-hang-gia-vien-nua-con--t5-mot-phan-tu-con-t6-nguyen-con-1479954965.jpg','image/png','370151',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('92', 'THỊT RỌI OM DƯA NỒI ĐẤT','THỊT RỌI OM DƯA NỒI ĐẤT','128000','','','available','thit-roi-om-dua-chua-noi-dat-1479446664.jpg','image/png','236622',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('93', 'VỊT HẤP SỐT GIA VIÊN ĐẶC BIỆT','VỊT HẤP SỐT GIA VIÊN ĐẶC BIỆT','235000','','','available','vit-hap-sot-gv-dac-biet-1479445980.jpg','image/png','240954',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('94', 'THỊT LỢN HẤP CÁ MẶN','THỊT LỢN HẤP CÁ MẶN','98000','','','available','thit-lon-hap-ca-man-1479445866.jpg','image/png','232331',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('95', 'THỊT KHÂU NHỤC KHO DƯA','THỊT KHÂU NHỤC KHO DƯA','120000','','','available','thit-khau-nhuc-kho-dua-chua-1479445824.jpg','image/png','230797',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('96', 'THỊ BÒ XÀO DƯA CHUA','THỊ BÒ XÀO DƯA CHUA','128000','','','available','thit-bo-xao-dua-chua-1479445773.jpg','image/png','228400',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('97', 'THỊT BA CHỈ OM MẮM RUỐC','THỊT BA CHỈ OM MẮM RUỐC','78000','','','available','thit-ba-chi-om-mam-ruoc-1479445714.jpg','image/png','213905',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('98', 'THỊT BA CHỈ RANG NGŨ VỊ','THỊT BA CHỈ RANG NGŨ VỊ','78000','','','available','thit-ba-chi-rang-ngu-vi-1479445676.jpg','image/png','221289',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('99', 'THỊT BA CHỈ NƯỚNG NGŨ VỊ','THỊT BA CHỈ NƯỚNG NGŨ VỊ','98000','','','available','thit-ba-chi-nuong-ngu-vi-1479445641.jpg','image/png','249788',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('100', 'THĂN BÒ XÀO ỚT TƯƠI SỐT TIÊU ĐEN','THĂN BÒ XÀO ỚT TƯƠI SỐT TIÊU ĐEN','158000','','','available','than-bo-xao-ot-tuoi-sot-tieu-den-1479445586.jpg','image/png','225934',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('101', 'SƯỜN NON OM MẮM RUỐC','SƯỜN NON OM MẮM RUỐC','90000','','','available','suon-non-om-mam-ruoc-1479445543.jpg','image/png','225191',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('102', 'SƯỜN BÒ SỐT TIÊU ĐEN','SƯỜN BÒ SỐT TIÊU ĐEN','175000','','','available','suon-bo-sot-tieu-den-1479445484.jpg','image/png','234308',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('103', 'GÀ OM SỐT CAY','GÀ OM SỐT CAY','158000','','','available','ga-om-sot-cay-1479445385.jpg','image/png','254662',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('104', 'GÀ NON HẤP THẢO DƯỢC','GÀ NON HẤP THẢO DƯỢC','285000','','','available','ga-non-hap-thao-duoc-1479445311.jpg','image/png','251789',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('105', 'GÀ HẤP TRỘN SỐT GIA VIÊN','GÀ HẤP TRỘN SỐT GIA VIÊN','235000','','','available','ga-hap-sot-trong-gv-1479445230.jpg','image/png','236662',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('106', 'ĐÙI GÀ HẤP MUỐI CHIÊN GIÒN','ĐÙI GÀ HẤP MUỐI CHIÊN GIÒN','98000','','','available','dui-ga-hap-muoi-chien-gion-1479445192.jpg','image/png','235330',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('107', 'ĐĨA GHÉP LỢN SỮA QUAY TỔNG HỢP','ĐĨA GHÉP LỢN SỮA QUAY TỔNG HỢP','358000','','','available','dia-ghep-lon-sua-quay-tong-hop-1479445130.jpg','image/png','235042',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('108', 'GÀ OM SỐT CAY','GÀ OM SỐT CAY','138000','','','available','t30---ga-om-sot-cay.jpg','image/png','389224',null, '2', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);

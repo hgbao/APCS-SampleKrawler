@@ -1,0 +1,36 @@
+INSERT INTO 'foods' VALUES('203', 'CƠM RANG SÒ ĐIỆP, LÒNG TRẮNG TRỨNG','CƠM RANG SÒ ĐIỆP, LÒNG TRẮNG TRỨNG','138000','','','available','co5---com-rang-so-diep--long-trang-trung-1479879766.jpg','image/png','352131',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('204', 'CHÁO THỊT LỢN TRỨNG MẶN NỒI ĐẤT','CHÁO THỊT LỢN TRỨNG MẶN NỒI ĐẤT','88000','','','available','co9---chao-thit-lon-trung-man-noi-dat-1479879782.jpg','image/png','357504',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('205', 'CHÁO THỊT LỢN TRỨNG BẮC THẢO','CHÁO THỊT LỢN TRỨNG BẮC THẢO','88000','','','available','co8---chao-thit-lon-trung-bac-thao-1479879796.jpg','image/png','355477',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('206', 'CHÁO NGAO NỒI ĐẤT','CHÁO NGAO NỒI ĐẤT','88000','','','available','co7---chao-ngao-noi-dat-1479879828.jpg','image/png','346978',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('207', 'CƠM CHIÊN TÔM TRỨNG MUỐI','CƠM CHIÊN TÔM TRỨNG MUỐI','95000','','','available','co2---com-chien-tom-trung-muoi-1479879842.jpg','image/png','392268',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('208', 'CƠM CHIÊN CÁ MẶN GÀ XÉ','CƠM CHIÊN CÁ MẶN GÀ XÉ','128000','','','available','co1---com-chien-ca-man-ga-xe-1479879868.jpg','image/png','382141',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('209', 'CƠM RANG HẢI SẢN, ĐẬU CÔ VE','CƠM RANG HẢI SẢN, ĐẬU CÔ VE','125000','','','available','226_1454490066_89456b1c1d2ca3c8.png','image/png','219603',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('210', 'CƠM RANG THỊT BÒ DƯA CHUA','CƠM RANG THỊT BÒ DƯA CHUA','128000','','','available','392_1454490167_5456b1c237e1bcc.png','image/png','236384',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
+INSERT INTO 'foods' VALUES('211', 'CHÁO HÀO TRỨNG MUỐI NỒI ĐẤT','CHÁO HÀO TRỨNG MUỐI NỒI ĐẤT','98000','','','available','chao-hao-trung-muoi-noi-dat-1479375963.jpg','image/png','222532',null, '6', '12', '---:price: 0.0
+percentage: 0
+:status: false'
+);
